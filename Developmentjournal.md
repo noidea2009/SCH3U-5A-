@@ -4,6 +4,7 @@
 3. told Andrew he could work on the interactive activity
 4. found a feasible demonstration method with a basketball
 
+to do: explain the law
 
 Jan 4 23:32
 
