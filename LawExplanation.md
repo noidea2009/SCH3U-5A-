@@ -1,4 +1,4 @@
-#Explaining the law with a thought experiment taken from the text book
+# Explaining the law with a thought experiment taken from the text book
 
 imagine 2 identical tanks one with hydrogen and oxygen
 
