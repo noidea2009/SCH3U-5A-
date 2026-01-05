@@ -39,7 +39,7 @@ Visuals (e.g., graphs, videos, online simulations, and/or live demonstrations) a
 
 Presentation completed in allocated time (10-15 minutes).
 
-Appropriate use of terminology and concepts when discussing gas laws.  If multiple groups are presenting the same law, there should be no overlap or missing concepts.
+~~Appropriate use of terminology and concepts when discussing gas laws.  If multiple groups are presenting the same law, there should be no overlap or missing concepts.~~
 
 ~~Units are used throughout the solutions of sample problems and 3 quiz questions; final answers are presented with the correct number of significant digits and units.~~
 
