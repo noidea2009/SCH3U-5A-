@@ -12,7 +12,7 @@ What volume will 0.50 mol of nitrogen gas occupy under the same conditions?
 
 A balloon is inflated using a mechanical pump, every second 2 moles of air is pumped into the balloon, at 20 seconds the balloon has a volume of 500 mL.
 
-	Under constant pressure and temperature: 
+Under constant pressure and temperature: 
 
 1. How many moles of air is used when its volume reaches 100 mL?  
 2. How long does it take to reach the volume? 
